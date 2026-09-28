@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change
+=======
+conflict_test
+>>>>>>> conflict_test
